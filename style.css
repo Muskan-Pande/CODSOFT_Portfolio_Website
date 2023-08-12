@@ -104,17 +104,6 @@ ul li a:hover::before{
 h4, p{
     font-family: 'Poppins', sans-serif;
 }
-
-.color-box{
-    width: 560px;
-    height: 480px;
-    border: 5px solid violet;
-    transform: rotate(48deg);
-    position: absolute;
-    top: 120px;
-    right: 10px;
-}
-
 /* about sec  */
 
 .about-me-sec{
